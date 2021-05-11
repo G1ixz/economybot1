@@ -3,7 +3,7 @@ exports.execute = async (client, message, args) => {
         "PewDiePie",
         "T-Series",
         "Sans",
-        "Zero"
+        "G1ixz"
     ];
     let amount = Math.floor(Math.random() * 50) + 10;
     let beg = client.eco.beg(client.ecoAddUser, amount, { canLose: true });
