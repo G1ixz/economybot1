@@ -31,10 +31,6 @@ DM ME FOR A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM  ME G1ixz#000
 MAKE A NEW ONE USING MY TUTORIAL :D``**
 ``IT WORKS ON REPL.IT PRETTY FINE ITS BEEN TESTED ALREADY``
 
-# Host On Repl.it
-[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/EconomyBot)](https://repl.it/github/ZeroDiscord/EconomyBot)
-# Host On Glitch 
-[Click Here to Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/ZeroDiscord/EconomyBot/)
 
 # Dependencies 
 - *Discord.js v12*
